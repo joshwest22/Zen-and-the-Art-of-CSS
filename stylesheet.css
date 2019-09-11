@@ -1,12 +1,36 @@
 h1
 {
-
+    
 }
 h2
 {
-
+    color: aliceblue;
 }
 body,html
 {
-
+    background-image: linear-gradient(rgba(27, 79, 182, 0.95),rgba(165, 224, 92, 0.81)),url("https://upload.wikimedia.org/wikipedia/commons/e/ea/BremenBotanikaZen.jpg");
+    color: lightskyblue;
+    text-align: left;
+    font-size: 19;
+    background-image: ;
+    background-size: cover,cover;
+    background-repeat: no-repeat, no-repeat;
+}
+div 
+{
+    border: 2px solid snow;
+    overflow:auto;
+    width: 90%;
+}
+a:link
+{
+    color:chartreuse;
+}
+a:visited
+{
+    color: tomato;
+}
+a:hover
+{
+    color:deeppink;
 }
